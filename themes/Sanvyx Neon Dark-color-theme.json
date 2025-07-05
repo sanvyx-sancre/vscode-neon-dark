@@ -3,17 +3,17 @@
   "colors": {
   "editor.background": "#0d0d0d",
   "editor.foreground": "#eeffff",
-  "sideBar.background": "#0f1a22",
+  "sideBar.background": "#0a1219",  // Dark blue-gray (like midnight)
   "sideBar.foreground": "#bbbbbb",
   "sideBarTitle.foreground": "#eeeeee",
-  "activityBar.background": "#0b2530",
+  "activityBar.background": "#081420",  // Richer blue-dark (like deep ocean)
   "activityBar.foreground": "#bbbbbb",
   "activityBarBadge.background": "#00ffd7",
   "activityBarBadge.foreground": "#ffffff",
-  "titleBar.activeBackground": "#0b2530",
+  "titleBar.activeBackground": "#081420",  // Matches activity bar
   "titleBar.activeForeground": "#ffffff",
   "tab.activeBackground": "#0d0d0d",
-  "tab.inactiveBackground": "#0b2530",
+  "tab.inactiveBackground": "#0a1219",  // Matches sidebar
   "tab.activeForeground": "#ffffff",
   "tab.inactiveForeground": "#888888"
   },
