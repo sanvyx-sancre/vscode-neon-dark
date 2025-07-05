@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanvyx-sancre/vscode-neon-dark.git"
+  },
   "contributes": {
     "themes": [
       {
