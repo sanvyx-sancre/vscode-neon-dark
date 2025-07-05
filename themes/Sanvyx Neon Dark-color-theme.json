@@ -1,10 +1,21 @@
 {
   "name": "Sanvyx Neon Dark",
   "colors": {
-    "editor.background": "#1e1e2e",
-    "editor.foreground": "#cdd6f4",
-    "activityBarBadge.background": "#bb99ff",
-    "sideBarTitle.foreground": "#cba6f7"
+  "editor.background": "#263238",
+  "editor.foreground": "#eeffff",
+  "sideBar.background": "#1f2a33",
+  "sideBar.foreground": "#bbbbbb",
+  "sideBarTitle.foreground": "#eeeeee",
+  "activityBar.background": "#1b2730",
+  "activityBar.foreground": "#bbbbbb",
+  "activityBarBadge.background": "#007acc",
+  "activityBarBadge.foreground": "#ffffff",
+  "titleBar.activeBackground": "#1b2730",
+  "titleBar.activeForeground": "#ffffff",
+  "tab.activeBackground": "#263238",
+  "tab.inactiveBackground": "#1b2730",
+  "tab.activeForeground": "#ffffff",
+  "tab.inactiveForeground": "#888888"
   },
   "tokenColors": [
     {
